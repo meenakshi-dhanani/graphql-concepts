@@ -7,7 +7,7 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>GraphQL Concepts</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/GraphQL Logo (Rhodamine).svg"/>
       </Head>
 
       <main>
