@@ -10,7 +10,7 @@ body {
 }
 
 main {
-  padding: 0.5rem 2rem 0 1rem;
+  padding: 0.5rem 17rem 0 17rem;
   flex: 1;
   display: flex;
   flex-direction: column;
@@ -19,16 +19,15 @@ main {
 }
 
 .title {
+  margin-bottom: 0.25rem;
+}
+
+.cta {
   color: #E10098;
 }
 
-.container {
-  height: 100vh;
-  width: 100%;
-}
-
 iframe {
-  height: 80vh;
+  height: 65vh;
   width: 100%;
   background: transparent;
   border: 1px solid #ccc;
